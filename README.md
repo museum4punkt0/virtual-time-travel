@@ -80,7 +80,7 @@ The German Romanticism Museum is supported by:
 
 The Federal Government Commissioner for Culture and the Media, Hesse Ministry of Science and the Arts, City of Frankfurt am Main, Ernst Max von Grunelius Foundation, Deutsche Bank, Karsten Greve, Stiftung Polytechnische Gesellschaft, Kulturfonds Frankfurt RheinMain, Andrea and Carl-L. von Boehm-Bezing, Dirk Ippen, Wüstenrot Foundation, Art Mentor Foundation Lucerne, Dr Christoph Graf Douglas and Bergit Gräfin Douglas and many others.
 
-![Logo: Deutsches Romantik-Museum](/docs/assets/images/deutsches-romantik-museum-logo-schwarz.svg)
+<img src="/docs/assets/images/deutsches-romantik-museum-logo-schwarz.svg" alt="Logo: Deutsches Romantik-Museum" style="max-height: 50px;" />
 
 ### About MESO Digital Interiors GmbH
 
@@ -88,4 +88,4 @@ UNCOVERING THE CREATIVE POTENTIAL OF RELEVANT TECHNOLOGIES
 
 MESO is a team of creative explorers, designers, strategists and makers, set to help shape the future of digital technologies. Founded in 1997 by designers who love computers and computer scientists with a soft spot for design, we aim to bridge disciplines and create hard- and software for communicative things and spaces.
 
-![Logo: Meso](/docs/assets/images/meso.svg)
+<img src="/docs/assets/images/meso.svg" alt="Logo: Meso" style="max-height: 50px;" />
